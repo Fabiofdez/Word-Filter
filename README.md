@@ -58,12 +58,26 @@ Random selection of 5 words with "lf":
 
 Corpus 1 (most-frequent):
 
-Sólo falta ver alfombras voladoras y uno se creería metido en uno de los cuentos de las Mil y Una Noches. Ta Aa Las blancas sacrifican en el flanco de dama para operar cómodamente en el de rey pues su alfil de casillas negras y el caballo podrán tras la desviación de piezas demostrar la superioridad en el sector. Tyra Banks no puede ver a los delfines. Como Ministerio llevamos adelante el Plan Nacional de Alistamiento Digital para empoderar a la población ecuatoriana en el manejo perfeccionamiento y buen uso de las TIC con el objeto de erradicar el analfabetismo digital y promover una escolarización de calidad. Si tu sala lo decoraste con colores neutros o claros te aconsejo que en el piso coloques una hermosa alfombra que tenga colores brillantes y que contenga formas geométricas. 
+Sólo falta ver alfombras voladoras y uno se creería metido en uno de los cuentos de las Mil y Una Noches.
+ Ta Aa Las blancas sacrifican en el flanco de dama para operar cómodamente en el de rey pues su alfil de
+casillas negras y el caballo podrán tras la desviación de piezas demostrar la superioridad en el sector.
+Tyra Banks no puede ver a los delfines. Como Ministerio llevamos adelante el Plan Nacional de Alistamiento
+Digital para empoderar a la población ecuatoriana en el manejo perfeccionamiento y buen uso de las TIC con
+el objeto de erradicar el analfabetismo digital y promover una escolarización de calidad. Si tu sala lo
+decoraste con colores neutros o claros te aconsejo que en el piso coloques una hermosa alfombra que tenga
+colores brillantes y que contenga formas geométricas. 
 
 
 Corpus 2 (random):
 
-Reacción de Ehrlich Racción observada en la orina de algunos enfermos febriles especialmente en la fiebre tifoidea que consiste en la aparición de un color rojo por la adición de ácido diazobenzolsulfónico y amoníaco ácido que se forma haciendo actuar sobre una solución acidulada de ácido sulfanílico una solución de nitrito de sodio a el. Estas fueron algunas de las palabras plasmadas en la carta con la que Virginia Woolf se despidió de su marido Leonard Woolf. IZhola ayer llame a ONO porque me dijeron que amenazando con dar te de baja te daban la oferta de MB de cliente nuevo yo tengo MBtlfno. Esta alfombrado hasta el maletero bueno les aseguro como les decía que esta ok yo soy músico y lo arregle para mí nunca lo cojo para botear. Sentí como si millones de pequeños alfileres se clavasen en mi cuerpo.
+Reacción de Ehrlich Racción observada en la orina de algunos enfermos febriles especialmente en la fiebre
+tifoidea que consiste en la aparición de un color rojo por la adición de ácido diazobenzolsulfónico y
+amoníaco ácido que se forma haciendo actuar sobre una solución acidulada de ácido sulfanílico una solución
+de nitrito de sodio a el. Estas fueron algunas de las palabras plasmadas en la carta con la que Virginia
+Woolf se despidió de su marido Leonard Woolf. IZhola ayer llame a ONO porque me dijeron que amenazando con
+dar te de baja te daban la oferta de MB de cliente nuevo yo tengo MBtlfno. Esta alfombrado hasta el
+maletero bueno les aseguro como les decía que esta ok yo soy músico y lo arregle para mí nunca lo cojo
+para botear. Sentí como si millones de pequeños alfileres se clavasen en mi cuerpo.
 ```
 
 Text corpora data provided by: 
