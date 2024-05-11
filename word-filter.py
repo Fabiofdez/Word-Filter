@@ -5,7 +5,7 @@ import random
 
 def read_default():
 
-    with open("text.txt") as f:
+    with open("data/default.txt") as f:
         content = f.read()
         words = content.split()
         sentences = content.split(".")
