@@ -31,10 +31,10 @@ to run the script, use the command:
 - `-c, --count`: The number of words to find.
 - `-p, --print-sample`: (flag, false by default) Whether to provide a paragraph with the found words in an artificial context.
 
-An example use is as follows, specifying 5-length lists of words containing the substring "ción", 
-along with a sample paragraph, in the "data/default.txt" file:
+An example use is as follows, specifying 5-length lists of words containing the substring "lf", 
+along with corresponding sample paragraphs, from parsing the "data/default.txt" file:
 
-```python word-filter.py -s ción -c 5 -p```
+```python word-filter.py -s lf -c 5 -p```
 
 and the output could be as follows (in this case, default corpus data is from external source, not Leipzig Corpora Collection):
 
