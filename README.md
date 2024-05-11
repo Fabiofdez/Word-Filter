@@ -1,7 +1,5 @@
 # Word Filter
 
-## Overview
-
 Word Filter is a simple utility that provides a list of words that contain a specified substring 
 and sample paragraphs with those words in context.
 
@@ -14,12 +12,12 @@ per line, sorted first in descrnding order of frequency, then in alphabetical or
 file contains one sentence per line. If no files are specified, a dfault.txt file could be defined with 
 a list of sentences to be parsed and used instead.
 
-WOrd Filter will provide 2 lists of words, the first being the most frequently-occurring words contianing
-the given substring, and the second a randomly selected list of such words. If th --print-sample flag is
-specified, there will also be corresponding paragraphs compiled from sentences containing the words in the
+Word Filter will provide 2 lists of words, the first being the most frequently-occurring words containing
+the given substring, and the second a randomly selected list of such words. If the --print-sample (-p) flag 
+is specified, there will also be corresponding paragraphs compiled from sentences containing the words in the
 afrementioned lists, though if a word is nt found in the sentence files it will not appear in the paragraphs.
-The paragraphs mainly serve to provide an artificial context for the words, though the sentences may and likely
-will be on conpletely unrelated subjects (hence artificial context).
+The paragraphs mainly serve to provide an artificial context for the words, though the sentences may and in 
+all likelyhood will be on completely unrelated subjects (hence artificial context).
 
 To get started, clone this repository and make sure to have python3 and/or a python environment active.
 to run the script, use the command:
